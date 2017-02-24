@@ -1,0 +1,86 @@
+
+@keyframes yagEyYagis{
+	0%{
+		top: 0;	
+	}
+
+	100%{
+		top: 630px;
+		
+	}		
+}
+
+body div  i{
+	position: relative;
+	top: 0;
+	margin-left: 1px;
+}
+
+body div{
+	color: blue;
+	display: inline-block;
+}
+
+
+.a1-0{
+	animation: yagEyYagis 0.5s infinite; 
+}
+
+.a1-1{
+	animation: yagEyYagis 0.515s infinite; 
+}
+
+.a1-2{
+	animation: yagEyYagis 0.53s infinite; 
+}
+
+.a1-3{
+	animation: yagEyYagis 0.545s infinite; 
+}
+
+.a1-4{
+	animation: yagEyYagis 0.560s infinite; 
+}
+
+
+.b1-0{
+	animation: yagEyYagis 0.49s infinite; 
+}
+
+.b1-1{
+	animation: yagEyYagis 0.505s infinite; 
+}
+
+.b1-2{
+	animation: yagEyYagis 0.520s infinite;
+}
+
+.b1-3{
+	animation: yagEyYagis 0.535s infinite;
+}
+
+.b1-4{
+	animation: yagEyYagis 0.550s infinite;
+}
+
+
+.c1-0{
+	color: blue;
+	animation: yagEyYagis 0.510s infinite; 
+}
+
+.c1-1{
+	animation: yagEyYagis 0.525s infinite; 
+}
+
+.c1-2{
+	animation: yagEyYagis 0.540s infinite;
+}
+
+.c1-3{
+	animation: yagEyYagis 0.555s infinite;
+}
+
+.c1-4{
+	animation: yagEyYagis 0.570s infinite;
+}
